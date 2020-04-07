@@ -1,3 +1,3 @@
-markdown: redcarpet
+markdown: kramdown
 baseurl: /NASA_Planets
 exclude: ["README.md"]
