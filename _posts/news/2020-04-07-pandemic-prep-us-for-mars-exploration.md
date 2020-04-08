@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: How a pandemic prepares us for exploring and living on Mars
 meta: NASA experts say that knowledge and understanding of how to stay safe and healthy will help us prepare for landing on another planet
 source: https://edition.cnn.com/2020/04/06/world/mars-mission-prep-pandemic-scn/index.html

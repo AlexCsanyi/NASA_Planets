@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: NASA reveals the new wavy Martian wheels it thinks can crush the red planet
 meta: new Mars assault robot, NASA plans to send to the red planet in July as part of the Mars 2020 mission, gets new wheels
 source: https://www.theregister.co.uk/2020/04/06/nasa_reveals_perserverance_rover_grouser_wheel_design/

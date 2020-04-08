@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: DWARF PLANET FACTS
 meta: There are currently five officially classified dwarf planets in our solar system. They are Ceres, Pluto, Haumea, Makemake and Eris
 source: https://theplanets.org/dwarf-planets/

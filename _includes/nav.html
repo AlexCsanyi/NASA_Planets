@@ -17,7 +17,7 @@
     <li>
       <a
         href="{{site.baseurl}}/news.html"
-        class="{% if page.url == '/news.html' %}current{% endif %}"
+        class="{% if page.url contains 'news' or page.url contains 'recent-reports' %}current{% endif %}"
         >News</a
       >
     </li>

@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: NASA Commemorates 50th Anniversary of Apollo 13, ‘A Successful Failure’
 meta: NASA's goal 50 years ago was to save our valiant crew after sending them around the Moon and return them safely to Earth
 source: https://www.nasa.gov/press-release/nasa-commemorates-50th-anniversary-of-apollo-13-a-successful-failure

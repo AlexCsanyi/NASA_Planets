@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: The 8 Planets in Our Solar System - We still love you Pluto
 meta: The Nine Planets is an encyclopedic overview with facts and information about the history, mythology and current scientific knowledge of the planets, moons and other objects in our solar system and beyond
 source: https://nineplanets.org/
