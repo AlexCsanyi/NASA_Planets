@@ -11,7 +11,9 @@ layout: default
 
 <ol>
   {% for post in site.data.planet-types %}
-  <li><a href="">{{post.title}}</a></li>
+  <li>
+    <a href="{{site.baseurl}}/planets/{{post.folder}}">{{post.title}}</a>
+  </li>
   {{post.content | markdownify }} {% endfor %}
 </ol>
 

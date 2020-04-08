@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<strong>Planets</strong>
+<nav>
+  <ul>
+    {% for post in site.data.planet-types %}
+    <li>
+      <a
+        href="{{site.baseurl}}/planets/{{post.folder}}"
+        class="{% if page.url contains post.folder %}current{% endif %}"
+        >{{post.title}}</a
+      >
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+{{content}}
