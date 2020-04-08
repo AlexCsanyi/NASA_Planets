@@ -10,9 +10,9 @@ layout: default
 <h2>Types of Planets by size:</h2>
 
 <ol>
-  {% for post in site.categories.planets %}
-  <li>{{post.title}}</li>
-  {% endfor %}
+  {% for post in site.data.planet-types %}
+  <li><a href="">{{post.title}}</a></li>
+  {{post.content | markdownify }} {% endfor %}
 </ol>
 
 <h2>Recent Posts</h2>

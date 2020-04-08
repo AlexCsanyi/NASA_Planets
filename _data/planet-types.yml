@@ -1,0 +1,11 @@
+- title: Dwarf Planets
+  content: 'Dwarf Planets are smaller in mass to their bigger "brothers" but still hold some qualifications to list them as planets rather than as just celestial **objects**, such as asteroids and meteors'
+  folder: dwarf
+
+- title: Terrestrial planets
+  content: "Here is a list of all the planets that fall within these rules according to the IAU. They are listed in order of their distance from the **sun**."
+  folder: terrestrial
+
+- title: Gas Giants
+  content: "Massive planets primarily comprised of a mixture of **gases** in place of a solid surface"
+  folder: gas-giant
