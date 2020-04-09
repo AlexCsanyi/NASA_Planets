@@ -1,3 +1,4 @@
 markdown: kramdown
 baseurl: /NASA_Planets
 exclude: ["README.md"]
+permalink: pretty
