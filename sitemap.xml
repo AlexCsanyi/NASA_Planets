@@ -14,4 +14,10 @@
             {% include sitemapEntry.xml entry=page %}
         {% endif %}
     {% endfor %}
+
+    {% for comet in site.comets %}
+        {% if comet.layout %}
+            {% include sitemapEntry.xml entry=comet %}
+        {% endif %}
+    {% endfor %}
 </urlset>
